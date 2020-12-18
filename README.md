@@ -17,7 +17,7 @@ Simply open up a terminal window and navigate to your bot's folder. Type: 'node 
 
 {"message":"Connected","level":"info"}
 {"message":"Logged in as: ","level":"info"}
-{"message":"BotUserNameGoesHere - (744117799777075291)","level":"info"}
+{"message":"BotUserNameGoesHere - BotApplicationIDGoesHere"}
 
 If you recieve and error, please read over your code and double check everything. Seek support online for further assistance. You can always roll back by redownloading our sample template.
 
