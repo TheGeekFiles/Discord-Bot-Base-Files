@@ -19,7 +19,7 @@ Simply open up a terminal window and navigate to your bot's folder. Type: 'node 
 {"message":"Logged in as: ","level":"info"}
 {"message":"BotUserNameGoesHere - BotApplicationIDGoesHere"}
 
-If you recieve and error, please read over your code and double check everything. Seek support online for further assistance. You can always roll back by redownloading our sample template.
+If you recieve an error, please read over your code and double check everything. Seek support online for further assistance. You can always roll back by redownloading our sample template.
 
 # Credits
 The backend code is a mixture from other GitHub projects, and the bot.js code is from www.digitaltrends.com. Thanks to those people who made this code accessible to new users.
